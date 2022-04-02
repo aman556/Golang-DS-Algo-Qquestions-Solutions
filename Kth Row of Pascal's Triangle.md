@@ -1,3 +1,4 @@
+```
 func getRow(A int )  ([]int) {
     
     //var ans [A+1]int 
@@ -24,5 +25,5 @@ func getRow(A int )  ([]int) {
     
     return ans
 }
-
+```
 Question link - https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/
